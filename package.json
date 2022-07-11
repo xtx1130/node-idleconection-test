@@ -1,0 +1,14 @@
+{
+  "name": "idleconection-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^12.1.0"
+  }
+}
